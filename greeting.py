@@ -1,8 +1,9 @@
-text="  pyhton is langynge "
+'''text="  pyhton is langynge "
 print(text.upper())
 print(text.lower())
 print(text.replace(" ","_"))
-print(text.strip())
+print(text.strip())'''
+print("hackthon  project starts ")
 
 
 
